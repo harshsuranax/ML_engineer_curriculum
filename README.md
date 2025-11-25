@@ -30,7 +30,6 @@ A comprehensive, self-paced curriculum for becoming an ML Engineer with focus on
 
 **Stanford CS106B: Programming Abstractions** | ~40 hours
 - **Instructors:** Various
-- **YouTube:** [Full Lecture Series](https://www.youtube.com/watch?v=FIroM06V2MA&list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX)
 - **Website:** [Stanford CS106B Course Page](https://web.stanford.edu/class/cs106b/)
 - **Topics:** C++ fundamentals, recursion, data structures, pointers, memory management
 
